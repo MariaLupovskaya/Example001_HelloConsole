@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Маша\\Обучение\\3_C#\\Семинар 1\\Example\\Example001\\Example001.csproj",
+      "projectUniqueName": "D:\\Маша\\Обучение\\3_C#\\Seminar_1\\Example\\Example001\\Example001.csproj",
       "projectName": "Example001",
-      "projectPath": "D:\\Маша\\Обучение\\3_C#\\Семинар 1\\Example\\Example001\\Example001.csproj",
+      "projectPath": "D:\\Маша\\Обучение\\3_C#\\Seminar_1\\Example\\Example001\\Example001.csproj",
       "packagesPath": "C:\\Users\\Мария\\.nuget\\packages\\",
-      "outputPath": "D:\\Маша\\Обучение\\3_C#\\Семинар 1\\Example\\Example001\\obj\\",
+      "outputPath": "D:\\Маша\\Обучение\\3_C#\\Seminar_1\\Example\\Example001\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Мария\\AppData\\Roaming\\NuGet\\NuGet.Config"

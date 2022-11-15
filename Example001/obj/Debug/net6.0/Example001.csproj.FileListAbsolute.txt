@@ -13,3 +13,18 @@ D:\Маша\Обучение\3_C#\Семинар 1\Example\Example001\obj\Debug\
 D:\Маша\Обучение\3_C#\Семинар 1\Example\Example001\obj\Debug\net6.0\Example001.pdb
 D:\Маша\Обучение\3_C#\Семинар 1\Example\Example001\obj\Debug\net6.0\Example001.genruntimeconfig.cache
 D:\Маша\Обучение\3_C#\Семинар 1\Example\Example001\obj\Debug\net6.0\ref\Example001.dll
+D:\Маша\Обучение\3_C#\Seminar_1\Example\Example001\bin\Debug\net6.0\Example001.exe
+D:\Маша\Обучение\3_C#\Seminar_1\Example\Example001\bin\Debug\net6.0\Example001.deps.json
+D:\Маша\Обучение\3_C#\Seminar_1\Example\Example001\bin\Debug\net6.0\Example001.runtimeconfig.json
+D:\Маша\Обучение\3_C#\Seminar_1\Example\Example001\bin\Debug\net6.0\Example001.dll
+D:\Маша\Обучение\3_C#\Seminar_1\Example\Example001\bin\Debug\net6.0\Example001.pdb
+D:\Маша\Обучение\3_C#\Seminar_1\Example\Example001\obj\Debug\net6.0\Example001.csproj.AssemblyReference.cache
+D:\Маша\Обучение\3_C#\Seminar_1\Example\Example001\obj\Debug\net6.0\Example001.GeneratedMSBuildEditorConfig.editorconfig
+D:\Маша\Обучение\3_C#\Seminar_1\Example\Example001\obj\Debug\net6.0\Example001.AssemblyInfoInputs.cache
+D:\Маша\Обучение\3_C#\Seminar_1\Example\Example001\obj\Debug\net6.0\Example001.AssemblyInfo.cs
+D:\Маша\Обучение\3_C#\Seminar_1\Example\Example001\obj\Debug\net6.0\Example001.csproj.CoreCompileInputs.cache
+D:\Маша\Обучение\3_C#\Seminar_1\Example\Example001\obj\Debug\net6.0\Example001.dll
+D:\Маша\Обучение\3_C#\Seminar_1\Example\Example001\obj\Debug\net6.0\refint\Example001.dll
+D:\Маша\Обучение\3_C#\Seminar_1\Example\Example001\obj\Debug\net6.0\Example001.pdb
+D:\Маша\Обучение\3_C#\Seminar_1\Example\Example001\obj\Debug\net6.0\Example001.genruntimeconfig.cache
+D:\Маша\Обучение\3_C#\Seminar_1\Example\Example001\obj\Debug\net6.0\ref\Example001.dll
