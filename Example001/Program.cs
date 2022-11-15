@@ -79,13 +79,32 @@
 // Console.WriteLine(absNum);
 
 
-Console.WriteLine("Введите число");
-String text = Console.ReadLine();
+// Console.WriteLine("Введите число");
+// String text = Console.ReadLine();
+// Console.WriteLine();
+// int number = int.Parse(text);
+// int negativeNumber = number * -1;
+// while(negativeNumber <= number)
+// {
+//     Console.WriteLine(negativeNumber);
+//     negativeNumber ++;
+// }
+
+
+// Напишите программу, которая на вход принимает 2 числа и проверяет, является ли первое число квадратом второго.
+
+Console.WriteLine("Введите первое число");
+String str1 = Console.ReadLine();
+Console.WriteLine("Введите второе число");
+String str2 = Console.ReadLine();
 Console.WriteLine();
-int number = int.Parse(text);
-int negativeNumber = number * -1;
-while(negativeNumber <= number)
+int a = int.Parse(str1);
+int b = int.Parse(str2);
+if(a == b * b)
 {
-    Console.WriteLine(negativeNumber);
-    negativeNumber ++;
+   Console.WriteLine(a + " является квадратом числа " + b); 
+}
+else
+{
+    Console.WriteLine(a + " не является квадратом числа " + b);
 }
